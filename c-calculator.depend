@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647986837 source:c:\users\pc\documents\platzi projects\curso de programación estructurada\libraries\class\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operators.h"
+
+1647983434 c:\users\pc\documents\platzi projects\curso de programación estructurada\libraries\class\operators.h
+
